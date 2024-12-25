@@ -2,7 +2,8 @@
 A Competitive Analysis of the Entry-Level Luxury Car Market
 
 ## Objective
-This project was completed as part of the Unstructured Data Analysis coursework, for the MS in Business Analytics program at the McCombs School of Business. It attempts to analyze the entry-level luxury car market in the USA by utilizing content from Edmunds.com discussion forums. The goal is to extract insights from user discussions to advise the 'client', JD Power and Associates, on brand positioning, consumer preferences, and the competitive landscape.
+This project was completed as part of the Unstructured Data Analysis coursework, for the MS in Business Analytics program at the McCombs School of Business. 
+It attempts to analyze the entry-level luxury car market in the USA by utilizing content from Edmunds.com discussion forums. The goal is to extract insights from user discussions to advise the 'client', JD Power and Associates, on brand positioning, consumer preferences, and the competitive landscape.
 
 ## Key Tasks
 Data Scraping: A Python web scraper was developed to extract around 5000 posts from the "Entry Level Luxury Performance Sedans" forum on Edmunds.com. The output is stored in a CSV file with two columns: date and message.
