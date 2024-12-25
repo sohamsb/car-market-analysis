@@ -7,7 +7,7 @@ This project was completed as part of the Unstructured Data Analysis coursework,
 ## Key Tasks
 Data Scraping: A Python web scraper was developed to extract around 5000 posts from the "Entry Level Luxury Performance Sedans" forum on Edmunds.com. The output is stored in a CSV file with two columns: date and message.
 
-## Data Analysis:
+## Data Analysis
 
 *Zipf's Law:* Tested Zipf’s law econometrically to observe the frequency distribution of words, plotting the top 100 most frequent words.
 
@@ -21,7 +21,7 @@ Data Scraping: A Python web scraper was developed to extract around 5000 posts f
 
 *Aspirational Brand Analysis:* Determined the most aspirational brand by analyzing consumer discussions about brand desire and purchasing intent.
 
-## Insights & Recommendations:
+## Insights & Recommendations
 
 Provided insights based on lift calculations and MDS analysis to help JD Power understand brand associations.
 Offered recommendations on product attributes and brand positioning in the luxury car market.
